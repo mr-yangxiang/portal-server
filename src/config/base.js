@@ -15,10 +15,10 @@ module.exports = {
     host: '127.0.0.1',
     port: 3306,
     user: 'root',
-    password: '123456',
+    password: 'yang.19960525',
     database: 'portal_db',
 
-    // 服务名
+    // 服务名 
     serverName,
 
     // ============ 静态资源路径配置 ============
